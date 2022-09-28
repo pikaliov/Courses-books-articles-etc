@@ -12,4 +12,5 @@ My list of completed/wanted courses, books, articles, etc by topics
 ## DL
 ## RL
 ## Mathematics, statistics
+## Programming
 ## etc
