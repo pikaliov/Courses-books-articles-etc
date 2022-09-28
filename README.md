@@ -14,14 +14,14 @@ My list of completed/wanted courses, books, articles, etc by topics
   Articles
 ## NLP
   Courses
-  # Нейронные сети и обработка текста (Stepik)  https://stepik.org/course/54098/syllabus
-  # Введение в обработку естественного языка (Stepik) https://stepik.org/course/1233
+  - Нейронные сети и обработка текста (Stepik)  https://stepik.org/course/54098/syllabus
+  - Введение в обработку естественного языка (Stepik) https://stepik.org/course/1233
   Books
   Articles
   
 ## CV
   Courses
-  # Нейронные сети и компьютерное зрение (Stepik) https://stepik.org/course/50352/syllabus
+  - Нейронные сети и компьютерное зрение (Stepik) https://stepik.org/course/50352/syllabus
   Books
   Articles
   
@@ -52,8 +52,8 @@ My list of completed/wanted courses, books, articles, etc by topics
 
 ## Python
   Courses
-  # Добрый, добрый Python ООП - обучающий курс от Сергея Балакирева (Stepik) https://stepik.org/course/116336/syllabus
-  # Добрый, добрый Python - обучающий курс от Сергея Балакирева (Stepik) https://stepik.org/course/100707/syllabus
+  - Добрый, добрый Python ООП - обучающий курс от Сергея Балакирева (Stepik) https://stepik.org/course/116336/syllabus
+  - Добрый, добрый Python - обучающий курс от Сергея Балакирева (Stepik) https://stepik.org/course/100707/syllabus
   Books
   Articles
 ## SQL
@@ -62,7 +62,7 @@ My list of completed/wanted courses, books, articles, etc by topics
   Articles
 ## etc
   Courses
-  # Критическое мышление через боль и слёзы https://stepik.org/course/92210/syllabus
+  - Критическое мышление через боль и слёзы https://stepik.org/course/92210/syllabus
   Books
   Articles
 
