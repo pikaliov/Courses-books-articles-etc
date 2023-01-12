@@ -3,14 +3,15 @@ My list of completed/wanted courses, books, articles, etc by topics
 
 
 ## ASR
-  Cources
+  
+  Courses
   - 
   Books
   - Автоматическое распознавание речи: Учебное пособие. Тампель И.Б., Карпов А.А. 2016
   Articles
   - 
 ## TTS
-  Cources
+  Courses
   - 
   Books
   - 
