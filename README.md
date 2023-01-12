@@ -5,18 +5,18 @@ My list of completed/wanted courses, books, articles, etc by topics
 ## ASR
   
   Courses
-  - 
+  - 1
   Books
   - Автоматическое распознавание речи: Учебное пособие. Тампель И.Б., Карпов А.А. 2016
   Articles
   - 
 ## TTS
   Courses
-  - 
+  - 1
   Books
-  - 
+  - 1
   Articles
-  - 
+  - 1
 ## NLP
   Courses
   - Нейронные сети и обработка текста (Stepik)  https://stepik.org/course/54098/syllabus
@@ -30,9 +30,9 @@ My list of completed/wanted courses, books, articles, etc by topics
   - Нейронные сети и компьютерное зрение (Stepik) https://stepik.org/course/50352/syllabus
   - PyTorch for Deep Learning and Computer Vision (Udemy) https://www.udemy.com/share/1023ZS3@Lhmul9RmHh6gc5ZU0VWQV4gDLpLOZs9VaFj9D-ekkSngAav_HVlWH7hqrxeZjvlQ/
   Books
-  - 
+  - 1
   Articles
-  - 
+  - 1
 ## ML
   Courses
   -  Addressing Large Hadron Collider Challenges by Machine Learning (https://www.coursera.org/learn/hadron-collider-machine-learning)
@@ -43,11 +43,11 @@ My list of completed/wanted courses, books, articles, etc by topics
   - Pen and Paper Exercises in Machine Learning (https://arxiv.org/abs/2206.13446)
 ## DS
   Courses
-  - 
+  - 1
   Books
-  - 
+  - 1
   Articles
-  - 
+  - 1
 ## DL
   Courses
   - https://www.udemy.com/share/104sRw3@gKpfUoRsGBklqo_jizpR1D6nRDX62B4g9zXoHvnuOeqfOyNylVtNHRlaoQGxkEdk/ (TensorFlow Developer Certificate in 2022: Zero to Mastery
@@ -75,9 +75,9 @@ My list of completed/wanted courses, books, articles, etc by topics
   Courses
   - Practical Reinforcement Learning. Coursera https://www.coursera.org/learn/practical-rl
   Books
-  - 
+  - 1
   Articles
-  - 
+  - 1
 ## Mathematics, statistics
   Courses
   - https://stepik.org/course/91/syllabus
@@ -88,14 +88,14 @@ My list of completed/wanted courses, books, articles, etc by topics
   Books
   - Владимир Савельев. Статистика и котики
   Articles
-  - 
+  - 1
 ## Programming
   Courses
-  - 
+  - 1
   Books
-  - 
+  - 1
   Articles
-  - 
+  - 1
 ## Python
   Courses
   - Добрый, добрый Python ООП - обучающий курс от Сергея Балакирева (Stepik) https://stepik.org/course/116336/syllabus
@@ -104,24 +104,24 @@ My list of completed/wanted courses, books, articles, etc by topics
   - Основы Python 3. Udemy (https://www.udemy.com/share/102tyy3@2ZXCuwIagMNg-H83FKvssNSi1wfQs1aNLjcqtDdlMnCFeJeZqD_znJzv_tjX-U0G/)
   Books
   
-  - 
+  - 1
   Articles
-  - 
+  - 1
 ## SQL
   Courses
-  - 
+  - 1
   Books
-  - 
+  - 1
   Articles
-  - 
+  - 1
 ## etc
   Courses
   - Документы и презентации в LaTeX (Introduction to LaTeX) . Coursera https://www.coursera.org/learn/latex
   - Критическое мышление через боль и слёзы https://stepik.org/course/92210/syllabus
   Books
-  - 
+  - 1
   Articles
-  - 
+  - 1
 ## OpenEdu
 - https://openedu.ru/course/hse/STATDA/?session=2021
 - https://openedu.ru/program/hse/Machinelearning/#
