@@ -57,6 +57,9 @@ My list of completed/wanted courses, books, articles, etc by topics
 - https://www.udemy.com/share/101uGq3@QOFMNsJd5Sn2hct9pKGZf9dIFqFztGAykKvQJLmjNTsjOSvvy_ZsmyrLCahiCxX4/ (Tensorflow 2.0: Deep Learning and Artificial Intelligence) Udemy
 - Introduction to Deep Learning . https://www.coursera.org/learn/intro-to-deep-learning/  (completed)
 - How to Win a Data Science Competition: Learn from Top Kagglers https://www.coursera.org/learn/competitive-data-science/ (planned)
+- https://d2l.ai/index.html (planned)
+
+
   Books
   - Глубокое обучение — Николенко С. И., Кадурин. 2018
   - Гудфеллоу - Глубокое обучение. 2018
