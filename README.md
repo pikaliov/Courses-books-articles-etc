@@ -39,7 +39,7 @@ My list of completed/wanted courses, books, articles, etc by topics
   -  Python и машинное обучение [2020] Рашка, Мирджалили
   -  Python для сложных задач. Наука о данных и машинное обучение [2018] Плас Дж
   Articles
-  - 
+  - Pen and Paper Exercises in Machine Learning (https://arxiv.org/abs/2206.13446)
 ## DS
   Courses
   - 
@@ -79,9 +79,13 @@ My list of completed/wanted courses, books, articles, etc by topics
   - 
 ## Mathematics, statistics
   Courses
-  - 
+  - https://stepik.org/course/91/syllabus
+  - https://stepik.org/course/95/syllabus
+  - https://stepik.org/course/83/syllabus
+  - https://stepik.org/course/76/syllabus
+  - https://stepik.org/course/524/syllabus
   Books
-  -
+  - Владимир Савельев. Статистика и котики
   Articles
   - 
 ## Programming
